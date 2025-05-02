@@ -18,6 +18,8 @@ A simple website introducing the KTX (Korea Train Express) high-speed rail syste
 
 Open `index.html` in your web browser
 
+Or Visit [This Webpage](https://tapie-classroom.github.io/html-css-riruhyun/)
+
 ## License
 
 © 2025 KTX Introduction Website
